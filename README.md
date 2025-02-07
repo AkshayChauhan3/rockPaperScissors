@@ -1,6 +1,11 @@
 # rockPaperScissors
 
-Hello Friends, I'm Happy to share my new project heare special thanks to Shraddha Mam from Apni Kaksha :) i learned lot from it and i will learn it more and im going to work on autometic tic tac toe game in which you can play with computer 
+Hello Friends,
+
+I'm happy to share my new project here! A special thanks to Shraddha Ma'am from Apni Kaksha—I’ve learned a lot from her, and I’m excited to keep learning more.
+
+I’m now working on an automatic Tic-Tac-Toe game, where you can play against the computer. Stay tuned for updates!
+
 
 
 
