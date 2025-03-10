@@ -47,7 +47,7 @@ function playGame(userChoice) {
             //paper,scissors
             userWin = comChoice === "paper" ? false : true;
         } 
-        else if(userChoice = "paper") {
+        else if(userChoice === "paper") {
             //rock,scissors
             userWin = comChoice === "scissors" ? false : true;
         }
